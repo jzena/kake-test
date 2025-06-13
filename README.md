@@ -30,7 +30,7 @@ writing code documentations
 ## Install And running FE
 in frontEnd side:
 ```bash
-cd client && npm install
+cd clients && npm install
 ```
 after installing client:
 ```bash
